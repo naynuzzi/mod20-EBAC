@@ -30,3 +30,4 @@ let indices = encontrarIndicesMaiorEMenor(array);
 console.log(`Maior valor: ${indices.maiorValor} no índice ${indices.indiceMaior}`);
 console.log(`Menor valor: ${indices.menorValor} no índice ${indices.indiceMenor}`);
 
+module.exports = encontrarIndicesMaiorEMenor;
